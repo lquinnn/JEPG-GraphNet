@@ -8,7 +8,7 @@ Python 2.7
 Ptorch 
 
 
-#Prepare data
+# Prepare data  
 Petraining dataset:  
 ALASKA#2: https://www.kaggle.com/competitions/alaska2-image-steganalysis/data  
 Training dataset：  
