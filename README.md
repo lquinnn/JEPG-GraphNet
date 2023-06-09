@@ -16,5 +16,7 @@ BOSSbase 1：http://agents.fel.cvut.cz/boss/index.php?mode=VIEW&tmpl=materials
 BOWS-2:https://signalprocessingsociety.org/publications-resources/data-challenges/break-our-watermarking-system-2nd-ed  
 
 
+# Train model
+'''python train.py'''
 
 
