@@ -1,5 +1,5 @@
 # JEPG-GraphNet
-Code of Paper "JPEG Steganalysis Based on Steganographic Feature Enhancement and Graph Attention Learning"
+Code of Paper "JPEG Steganalysis Based on Steganographic Feature Enhancement and Graph Attention Learning".
 The code will be published after the paper is published.
 
 
